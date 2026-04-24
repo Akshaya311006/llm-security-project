@@ -1,0 +1,29 @@
+# -----------------------
+# DATA FILES (VERY IMPORTANT)
+# -----------------------
+data/
+output/
+
+# Large dataset formats
+*.parquet
+*.csv
+*.json
+
+# -----------------------
+# PYTHON CACHE
+# -----------------------
+__pycache__/
+*.pyc
+
+# -----------------------
+# ENV / SYSTEM FILES
+# -----------------------
+.env
+.DS_Store
+Thumbs.db
+
+
+# -----------------------
+# IDE FILES
+# -----------------------
+.vscode/
